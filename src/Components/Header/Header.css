@@ -1,0 +1,9 @@
+.header__content{
+    display: flex;
+    justify-content: space-between;
+}
+.header__content a {
+    color: black;
+    margin-right: 50px;
+    text-decoration: none;
+}
