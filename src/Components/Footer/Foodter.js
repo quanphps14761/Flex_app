@@ -3,7 +3,7 @@ import "../../App.css"
 export default class Foodter extends Component {
     render() {
         return (
-               <section className="call-to-action-app section bg-dark text-light p-5">
+               <section className="call-to-action-app section text-light p-5 bg-mau">
                    <div className="container text-center">
                        <div className="row">
                            <div className="col-lg-12">
